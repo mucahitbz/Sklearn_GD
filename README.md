@@ -1,1 +1,1 @@
-# Regression analysis with Stochastic Gradient Descent algortihm in the house price dataset
+# Regression analysis with Stochastic Gradient Descent algorithm in the house price dataset
